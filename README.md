@@ -1,4 +1,4 @@
-# Ship-Detection
+## Ship Detection
 
 #### Abstract
 
