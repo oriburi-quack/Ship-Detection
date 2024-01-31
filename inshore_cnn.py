@@ -1,5 +1,5 @@
 import os
-
+# path to OriBuri.py
 path = '/mnt/j/mine/school/geocoding/SAR_software/'
 os.chdir(path)
 
