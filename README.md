@@ -19,3 +19,10 @@ Thibault Taillade, Laetitia Thirion-Lefevre and Régis Guinvarc’h, 2020.
 Detecting Ephemeral Objects in SAR Time-Series Using Frozen Background-Based Change Detection,
 MDPI, Remote Sens. 2020, 12(11), 1720; https://doi.org/10.3390/rs12111720
 
+Shao, .Z et al, 2023.
+CFAR-guided Convolutional Neural Network for Large Scale Scene SAR Ship Detection,
+IEEE, Radar Conference, DOI:10.1109/RADARCONF2351548.2023.10149747
+
+Chen, .Z et al, 2023.
+Inshore Ship Detetion Based on Multi-Modality Saliency for Synthetic Aperture Radar Images,
+MDPI, Remote Sens. 2023, 15, 3868. https://doi.org/10.3390/rs15153868
