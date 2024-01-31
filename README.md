@@ -20,6 +20,10 @@ of Korea, department of Earth resource engineering. (https://sites.google.com/vi
 Sentinel-1 product and KOMPSAT-5(Korea Multi-Purpose Satellite-5) which is developed by KARI(Korea Aerospace Research Institute, https://www.kari.re.kr/eng/sub03_03_01.do). With OriBuri,
 you can easily handle SAR data in python.
 
+## Acknowledgements
+
+This study was conducted by the support of Sejong University innovation support project in 2023.
+
 ## Reference
 
 [1] Thibault Taillade, Laetitia Thirion-Lefevre and Régis Guinvarc’h, 2020.
