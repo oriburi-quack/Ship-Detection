@@ -13,8 +13,7 @@ Deep learning training data:
 
 https://drive.google.com/file/d/1my-He41in0sf6ddqZZXK9t5lPuU8pO_F/view?usp=sharing
 
-Deep learning label data:
-
+Deep learning label data:/n
 https://drive.google.com/file/d/1gGRlTcSlLpuhdNz9dIM5Fl4STMFqGv-P/view?usp=sharing
 
 ## OriBuri.py
