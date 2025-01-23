@@ -12,14 +12,6 @@ Deep learning training data: https://drive.google.com/file/d/1my-He41in0sf6ddqZZ
 
 Deep learning label data: https://drive.google.com/file/d/1gGRlTcSlLpuhdNz9dIM5Fl4STMFqGv-P/view?usp=sharing
 
-## About OriBuri
-
-OriBuri is a SAR(Synthetic Aperture Radar) Image Processing & Application Software built on an expansion of SIPAS which is
-developed by GEO-CODING, a study group of ungraduated students of Sejong University in Republic
-of Korea, department of Earth resource engineering. (https://sites.google.com/view/sejong-geocoding/remote-sensing). OriBuri is mainly focused on
-Sentinel-1 product and KOMPSAT-5(Korea Multi-Purpose Satellite-5) which is developed by KARI(Korea Aerospace Research Institute, https://www.kari.re.kr/eng/sub03_03_01.do). With OriBuri,
-you can easily handle SAR data in python.
-
 ## Acknowledgements
 
 This study was conducted by the support of Sejong University innovation support project in 2023.
